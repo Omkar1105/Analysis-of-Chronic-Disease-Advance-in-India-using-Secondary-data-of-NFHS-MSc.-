@@ -1,1 +1,1 @@
-# Analysis-of-Chronic-Disease-Advance-in-India-using-Secondary-data-of-NFHS-MSc.-
+Analysis of Prevalence and Development of Chronic Diseases in India by Using Data from NFHS
